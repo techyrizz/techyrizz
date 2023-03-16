@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Rizwan Shaikh
 - 👀 I’m interested in Java Development
-- 🌱 Currently Upskilling DSA
+- 🌱 Currently Upskilling DSA, Web3.0
 - 💞️ And looking to collaborate on projects
 - 📫 How to reach me - rizwanshaikh.sr01@gmail.com
 
