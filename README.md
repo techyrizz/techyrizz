@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @techyrizz
+- 👋 Hi there, I’m Rizwan Shaikh
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently Upskilling DSA
-- 💞️ I’m looking to collaborate on projects
+- 🌱 Currently Upskilling DSA
+- 💞️ And looking to collaborate on projects
 - 📫 How to reach me = rizwanshaikh.sr01@gmail.com
 
 <!---
